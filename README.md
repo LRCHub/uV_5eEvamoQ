@@ -1,0 +1,37 @@
+# JVKE – golden hour
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:15.31] It was just two lovers, sittin' in the car, listening to Blonde
+[00:18.83] Fallin' for each other, pink and orange skies, feelin' super childish
+[00:23.27] No Donald Glover, missed call from my mother
+[00:26.75] Like, "Where you at tonight?" Got no alibi
+[00:47.75] 
+[00:28.82] I was all alone with the love of my life
+[00:33.72] She's got glitter for skin, my radiant beam in the night
+[00:40.88] I don't need no light to see you
+[00:56.88] 
+[00:46.09] Shine
+[00:50.10] It's your golden hour (oh-ooh-oh)
+[00:58.43] You slow down time
+[01:05.16] In your golden hour (oh-ooh-oh)
+[01:20.66] 
+[01:16.56] We were just two lovers, feet up on the dash, drivin' nowhere fast
+[01:20.30] Burnin' through the summer, radio on blast, make the moment last
+[01:24.22] She got solar power, minutes feel like hours
+[01:27.98] She knew she was the baddest, can you even imagine
+[01:52.98] 
+[01:29.98] Fallin' like I did for the love of my life?
+[01:34.86] She's got glow on her face, a glorious look in her eyes
+[01:42.03] My angel of light
+[01:50.53] 
+[01:45.13] I was all alone with the love of my life
+[01:50.14] She's got glitter for skin, my radiant beam in the night
+[01:57.27] I don't need no light to see you
+[02:13.27] 
+[02:02.35] Shine
+[02:06.19] It's your golden hour (oh-ooh-oh)
+[02:14.68] You slow down time
+[02:21.33] In your golden hour (oh-ooh-oh)
+```

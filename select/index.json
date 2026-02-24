@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "golden hour",
+  "base_artist": "JVKE",
+  "createdAt": "2026-02-24T22:21:18.554866Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Golden Hour",
+      "artist": "Kacey Musgraves",
+      "has_synced": true,
+      "path": "select/01_Golden_Hour_Kacey_Musgraves.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Golden Hour",
+      "artist": "Midlake",
+      "has_synced": true,
+      "path": "select/02_Golden_Hour_Midlake.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Golden Hour (2001)",
+      "artist": "Midlake",
+      "has_synced": true,
+      "path": "select/03_Golden_Hour_(2001)_Midlake.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Golden Hour",
+      "artist": "Stick Figure",
+      "has_synced": true,
+      "path": "select/04_Golden_Hour_Stick_Figure.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "golden hour",
+      "artist": "JVKE",
+      "has_synced": true,
+      "path": "select/05_golden_hour_JVKE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "golden hour",
+      "artist": "Jvke",
+      "has_synced": true,
+      "path": "select/06_golden_hour_Jvke.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Golden Hour",
+      "artist": "Kacey Musgraves",
+      "has_synced": true,
+      "path": "select/07_Golden_Hour_Kacey_Musgraves.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "golden hour",
+      "artist": "JVKE",
+      "has_synced": true,
+      "path": "select/08_golden_hour_JVKE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "golden hour - Shirley Setia Remix",
+      "artist": "JVKE feat. Shirley Setia",
+      "has_synced": true,
+      "path": "select/09_golden_hour_-_Shirley_Setia_Remix_JVKE_feat._Shirley_Setia.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "golden hour - Shirley Setia Remix",
+      "artist": "JVKE, Shirley Setia",
+      "has_synced": true,
+      "path": "select/10_golden_hour_-_Shirley_Setia_Remix_JVKE,_Shirley_Setia.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "golden hour",
+      "artist": "Our Last Night",
+      "has_synced": true,
+      "path": "select/11_golden_hour_Our_Last_Night.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Golden Hour",
+      "artist": "NCT feat. Deuce & Charger",
+      "has_synced": true,
+      "path": "select/12_Golden_Hour_NCT_feat._Deuce_&_Charger.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "golden hour",
+      "artist": "JVKE",
+      "has_synced": true,
+      "path": "select/13_golden_hour_JVKE.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Golden Hour",
+      "artist": "Sam Roberts Band",
+      "has_synced": true,
+      "path": "select/14_Golden_Hour_Sam_Roberts_Band.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "golden hour (R3HAB Remix)",
+      "artist": "JVKE feat. R3HAB",
+      "has_synced": true,
+      "path": "select/15_golden_hour_(R3HAB_Remix)_JVKE_feat._R3HAB.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "golden hour (R3HAB Remix)",
+      "artist": "JVKE, R3HAB",
+      "has_synced": true,
+      "path": "select/16_golden_hour_(R3HAB_Remix)_JVKE,_R3HAB.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "golden hour - Fujii Kaze Remix",
+      "artist": "JVKE feat. Fujii Kaze",
+      "has_synced": true,
+      "path": "select/17_golden_hour_-_Fujii_Kaze_Remix_JVKE_feat._Fujii_Kaze.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "golden hour",
+      "artist": "JVKE",
+      "has_synced": false,
+      "path": "select/pl_01_golden_hour_JVKE.txt"
+    }
+  ]
+}
